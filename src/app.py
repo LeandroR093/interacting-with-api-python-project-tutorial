@@ -9,6 +9,3 @@ load_dotenv()
 
 # Spotify API credentials
 
-# Get credential values
-client_id = os.environ.get("CLIENT_ID")
-client_secret = os.environ.get("CLIENT_SECRET")
